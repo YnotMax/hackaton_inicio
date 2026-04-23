@@ -77,4 +77,28 @@ Como não podemos fechar a ideia do projeto antes do dia 27 de Junho (regras Pro
 3.  **Estudo de Integração:** Revisar como integrar a leitura do scanner (hardware do coletor) com as aplicações web/Python (PWAs, bibliotecas Android).
 
 ---
-*Este documento consolida a estratégia. O foco é resolver uma dor real de negócios usando tecnologia robusta e hardware industrial, transformando 28 dias de hackathon em uma vitrine profissional de alto nível.*
+
+## 7. Estética e UI: Neubrutalism (Neo-Brutalismo)
+
+Para garantir que o projeto não pareça "feito por IA" e transmita uma identidade de software industrial moderno e robusto, a estética escolhida é o **Neubrutalism**.
+
+*   **Identidade Visual:** Bordas pretas grossas (2px a 4px), sombras sólidas e deslocadas (sem blur), e cores de alto contraste (off-white no fundo com detalhes em verde limão ou amarelo mostarda).
+*   **Usabilidade Industrial:** Botões grandes com feedback visual de clique (efeito de "afundar" ao remover a sombra). Tipografia forte e legível (ex: Space Grotesk ou Archivo Black).
+*   **Justificativa:** Essa estética é perfeita para ambientes de logística (coletores), pois é clara, direta e visualmente impactante para a banca examinadora.
+
+---
+
+## 8. Gestão de Equipe e Matriz de Competências
+
+A estratégia para maximizar a eficiência da equipe nos 28 dias baseia-se no mapeamento prévio de habilidades e afinidades (Team Canvas / Matriz de Competências).
+
+*   **Mapeamento de Quadrantes (Membros):**
+    *   *Hard Skills:* Domínio técnico real (React, Python, SQL, Pitch).
+    *   *Paixões:* O que o membro deseja muito desenvolver no evento.
+    *   *Zona de Conforto:* Tarefas que executa bem, mas não são prioridade.
+    *   *Veto Total:* O que o membro **não faria de jeito nenhum** (essencial para evitar desmotivação).
+*   **O Algoritmo do Kickoff (27/06):**
+    No dia em que os problemas forem liberados, os desafios do GitHub serão cruzados com essa matriz através de uma IA para identificar qual problema oferece o melhor "match" com o DNA da equipe, exigindo menos esforço em áreas vetadas.
+
+---
+*Este documento consolida a estratégia completa: do hardware industrial à gestão de talentos. O foco é entregar um protótipo funcional TRL3 com alta percepção de valor e execução técnica impecável.*
